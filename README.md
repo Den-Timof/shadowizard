@@ -1,15 +1,15 @@
-# what is this?
+# What is this?
 
 Get perfect shadows every time for the non-designer.
 
 # Installation
 
-`npm i shadowizard --save`
+`npm i shadowizard_by --save`
 
 Then...
 
 ```
-import { shadowizard } from 'shadowizard';
+import { shadowizard } from 'shadowizard_by';
 
 shadowizard({
 	shadow_type: 'soft',

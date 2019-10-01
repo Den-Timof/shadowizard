@@ -1,0 +1,22 @@
+{
+  "name": "shadowizard_by",
+  "version": "1.0.0",
+  "description": "Add awesome shadows for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Den-Timof/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Denis Nazarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Den-Timof/shadowizard/issues"
+  },
+  "homepage": "https://github.com/Den-Timof/shadowizard#readme"
+}
